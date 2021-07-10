@@ -13,9 +13,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ ] (3pts) User can view the movie poster image for each movie.
 
 ### App Walkthrough .PNG
- ![](https://i.imgur.com/0xZaEyo.png)
- https://im4.ezgif.com/tmp/ezgif-4-79591aa83bff.gif
 
+<img src="https://imgur.com/kPEQkRg", width=250 />
 ### Notes
 First challenge encountered is install the CocoaPods.
 Solution: sudo gem install -n /usr/local/bin cocoapods -v 1.8.4
