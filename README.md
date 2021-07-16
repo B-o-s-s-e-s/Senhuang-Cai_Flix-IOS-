@@ -46,7 +46,7 @@ Solution: the gif.size must under 5 MiB.
 
 
 ### Notes
-Describe any challenges encountered while building the app.
+Challenges encountered can not direct push to github, need to pull(rebase location) then push.
 
 
 
