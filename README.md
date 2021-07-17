@@ -42,7 +42,7 @@ Solution: the gif.size must under 5 MiB.
 ### App Walkthrough GIF
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://im4.ezgif.com/tmp/ezgif-4-9efe0ab1cddd.gif" width=250><br>
+<img src="https://i.imgur.com/dqfb4tw.gif" width=250><br>
 
 
 ### Notes
